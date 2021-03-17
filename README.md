@@ -5,5 +5,5 @@
 
 ### 💻Discord: Mr. プロキシ#1107                                 
 ### 💸Donate: noooreply.acount@gmail.com                           
-### 📛Support Server:https://discord.gg/FfC6HQdyhd                                  
+### 📛Support Server:https://discord.gg/u4ASMFxGyA                              
 
