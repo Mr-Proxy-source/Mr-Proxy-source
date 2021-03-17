@@ -4,6 +4,6 @@
 ### ⚡ I love scripting in [Python](https://www.python.org/) creating Discord Bots & Design Discord Servers!
 
 ### 💻Discord: Mr. プロキシ#1107                                 
-### 💸Donate [PayPal](https://www.paypal.com/paypalme/my/profile)                          
-### 📛Support [Server](https://discord.gg/u4ASMFxGyA)                           
+### [💸Donate](https://www.paypal.com/paypalme/my/profile)                          
+### [📛Support Server](https://discord.gg/u4ASMFxGyA)                           
 
