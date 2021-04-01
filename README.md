@@ -5,5 +5,5 @@
 
 ### 💻Discord: Mr. プロキシ#1107                                 
 ### [💸Donate](https://www.paypal.com/paypalme/my/profile)                          
-### [📛Support Server](https://discord.gg/u4ASMFxGyA)                           
+### [📛Support Server](https://discord.gg/HmfwchcVyf)                           
 
