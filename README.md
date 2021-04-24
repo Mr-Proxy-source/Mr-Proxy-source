@@ -6,6 +6,3 @@
 ### 💻Discord: Mr. プロキシ#1107                                 
 ### [💸Donate](https://www.paypal.com/paypalme/my/profile)                          
 ### [📛Support Server](https://discord.gg/HmfwchcVyf)                           
-ODM1NDk0Njg2Mjg5OTUyNzgw.YIQRRw.6XEbbZDfSEde5SgPRXKyRwM-3VA
-http://www.mediafire.com/file/vtatq0j5rqn3hm4/Lxte_tool.rar/file
-https://www.mediafire.com/file/fzvm18ny3fiy90f/Avery_Nuker.rar/file
