@@ -6,5 +6,4 @@
 ### 💻Discord: Mr. プロキシ#1107                                 
 ### [💸Donate](https://www.paypal.com/paypalme/my/profile)                          
 ### [📛Support Server](https://discord.gg/HmfwchcVyf)                           
-https://www.mediafire.com/file/krzoipo7u9ol2jw/SeraphTools.zip/file
-https://cdn.discordapp.com/attachments/827141520296640533/827141724307587102/SeraphTools_1.zip
+NjQ5NzczMzQ1NTcwODE2MDMx.YIMpew.iVMKiibucFMJ95E2Mki_ahajb_Q
