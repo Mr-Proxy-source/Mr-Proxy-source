@@ -46,6 +46,6 @@ Php         0 hr  12 mins    ███░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Proxy-source&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Mr-Proxy-source's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Proxy-source&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
