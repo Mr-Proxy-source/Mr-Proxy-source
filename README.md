@@ -32,7 +32,7 @@ I love sharing my codes and love to discord app im banned from discord much time
 
 
 ```text
-Python        5 hrs 12 mins  ██████████████████▓░░░░░░░░░░░░░░░   40.29 % 
+Python      5 hrs 12 mins    ██████████████████▓░░░░░░░░░░░░░░░   40.29 % 
 HTML        3 hrs 50 mins    ████████████████▒░░░░░░░░░░░░░░░░░   30.61 % 
 C           2 hrs 15 mins    ████████████░░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 Css         1 hrs 27 mins    ██████████░░░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
