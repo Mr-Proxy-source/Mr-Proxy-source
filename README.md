@@ -11,7 +11,7 @@ I'm MrProxy a Discord Developer and Content Creator on [Youtube](https://youtube
 - 🔭 I’m currently working at my [Graphic Designs](https://mrdesignbusiness1.wixsite.com/home)
 - 📖 I currently learning C and Html
 - 📫 How to contact me - Discord: [Mr. Proxy#6996](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
-- ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-Visual-Studio-Code) & [Design Discord Servers](https://discord.gg/Ha3WjFhsr5)!
+- ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-Visual-Studio-Code) & [Design Discord Servers](https://discord.gg/mrtools)!
 
 #### I Love
 
@@ -27,7 +27,11 @@ I'm MrProxy a Discord Developer and Content Creator on [Youtube](https://youtube
 
 <br >
 
-I love sharing my codes and love to discord app im banned from discord much time but i didnt stop sharing my skills about discord
+### My job is making designs in photoshop and im making money of it !
+
+### Check out my websites! 
+### [Webite about my work](https://mrdesignbusiness1.wixsite.com/home)
+### [Website i made for fun](https://mr-proxy-source.github.io/website/)  
 
 #### Github Stats
 
