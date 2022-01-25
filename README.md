@@ -9,7 +9,7 @@ I'm MrProxy a Discord Developer and Content Creator on [Youtube](https://youtube
 
 
 - 🔭 I’m currently working at my [Graphic Designs](https://mrdesignbusiness1.wixsite.com/home)
-- 📖 I currently learning C and Html
+- 📖 Check out my [Discord Bot !](https://discord.com/oauth2/authorize?client_id=930051753850851359&permissions=8&scope=bot)
 - 📫 How to contact me - Discord: [Mr. Proxy#6996](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
 - ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-Visual-Studio-Code) & [Design Discord Servers](https://discord.gg/mrtools)!
 
