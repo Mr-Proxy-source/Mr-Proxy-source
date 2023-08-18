@@ -8,7 +8,7 @@
 [![Mail Badge](https://img.shields.io/badge/-MrProxyy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noooreply.acount@gmail.com)
 
 
-- 🔭 I’m currently working at my [Graphic Designs](https://mrdesignbusiness1.wixsite.com/home)
+- 🔭 I’m currently working on my [Discord Themes & Bots](linktr.ee/mrproxy.wav)
 - 📖 Check out my [Discord Bot !](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot)
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
 - ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-bot.js) & [Design Discord Servers](https://discord.gg/mrtools)!
