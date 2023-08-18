@@ -1,16 +1,16 @@
-## Hi I'm Mr. Proxy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=6000&pause=15000&color=F7740E&width=435&lines=Hi+I'm+Mr.+Proxy)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm MrProxy a Discord Developer and Content Creator on [Youtube](https://youtube.com/MrProxyDc).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=4000&pause=10000&color=F7F7F7&width=435&lines=I+work+as+Discord+Developer%2C+Music+Producer+and+Graphic+Desinger)](https://git.io/typing-svg)
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-MrProxy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/MrProxy1) 
+[![Mail Badge](https://img.shields.io/badge/-MrProxy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@cysc.) 
 [![Mail Badge](https://img.shields.io/badge/-MrProxyy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noooreply.acount@gmail.com)
 
 
 - 🔭 I’m currently working at my [Graphic Designs](https://mrdesignbusiness1.wixsite.com/home)
-- 📖 Check out my [Discord Bot !](https://discord.com/oauth2/authorize?client_id=930051753850851359&permissions=8&scope=bot)
-- 📫 How to contact me - Discord: [Mr. Proxy#6683](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
+- 📖 Check out my [Discord Bot !](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot)
+- 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
 - ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-bot.js) & [Design Discord Servers](https://discord.gg/mrtools)!
 
 #### I Love
