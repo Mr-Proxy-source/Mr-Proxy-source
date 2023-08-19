@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=6000&pause=15000&color=F7740E&width=435&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=10000&color=F7F7F7&width=435&lines=I+work+as+Discord+Developer+%26+Music+Producer;I+love+making+Youtube+Videos+%26+Designs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=435&lines=I+work+as+Discord+Developer+%26+Music+Producer;I+love+making+Youtube+Videos+%26+Designs)](https://git.io/typing-svg)
 
 :mailbox: Reach me out!
 
