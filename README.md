@@ -13,7 +13,8 @@
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
 - ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-bot.js) & [Design Discord Servers](https://discord.gg/mrtools)!
 
-![Mr. Proxy's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Proxy-source&show_icons=true&theme=codeSTACKr) <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Proxy-source&count_private=true&theme=codeSTACKr" alt="ashok" />
+![Mr. Proxy's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Proxy-source&show_icons=true&theme=codeSTACKr)
+<img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Proxy-source&count_private=true&theme=codeSTACKr" alt="ashok" />
 
 [![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-orange?style=for-the-badge&labelColor=black&logo=photoshop)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=&logoColor=F0DB4F)](#) [![Html Badge](https://img.shields.io/badge/-Html-007acc?style=for-the-badge&labelColor=black&logo=007acc)](#) 
 
