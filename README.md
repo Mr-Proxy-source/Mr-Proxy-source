@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142847087264927774/150995826-9d81e855-3ff6-4e8f-aa6b-86c8dd0fb5f4.jpg"> </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=10000&pause=7000&color=5D3FD3&width=600&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=5D3FD3&width=800&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=800&lines=I+work+as+Discord+Developer+%26+Music+Producer+,+i+love+making+Youtube+Videos+%26+Designs🟣)](https://git.io/typing-svg)
 <h2 align="center">:mailbox: Socials & Info :mailbox:</h2>
 
