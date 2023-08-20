@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142847087264927774/150995826-9d81e855-3ff6-4e8f-aa6b-86c8dd0fb5f4.jpg"> </h2>
+<h2 align="center"> <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/main.jpg"> </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=5D3FD3&width=800&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=800&lines=I+work+as+Discord+Developer+%26+Music+Producer+,+i+love+making+Youtube+Videos+%26+Designs🟣)](https://git.io/typing-svg)
@@ -11,7 +11,7 @@
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
 - ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-bot.js) & [Design Discord Servers](https://discord.gg/mrtools)!
 
-<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
+<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <div width="100%" align="center">
       
@@ -32,7 +32,7 @@
 <br><br><br>
 <!-- CONTACT --> 
 
-<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
+<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 
 <h2 align="center">🟣 My Stats 🟣</h2>
 <br>
@@ -54,62 +54,62 @@
   <br>
 </p>
 
-<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
+<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <h2 align="center">💻Tools, languages, and other things that I like to work with💻</h2>
 <div align=center>
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
       </a>
       <br>Powershell
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/CMD.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/cmd.svg" width="48" height="48" alt="Python" />
       </a>
       <br>CMD
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/linux.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/linux.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/kali-linux.svg" width="80" height="80" alt="Jsonnet" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/kali-linux.svg" width="80" height="80" alt="Jsonnet" />
       </a>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/visual-studio.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/visual-studio.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Visual Studio
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%23.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/c%23.svg" width="48" height="48" alt="React" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/html5.svg" width="48" height="48" alt="Sass" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/html5.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>HTML5
     </td>
@@ -117,13 +117,13 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/javascript.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/javascript.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>JavaScript
     </td>
@@ -173,7 +173,7 @@
 </table>
 </div>
 
-<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
+<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <div align=Center>
 <table>
     <td align="Left" width="600">
@@ -184,13 +184,13 @@
     </td>
     <td align="Center" width="600">
       <a href="https://linktr.ee/mrproxy.wav">
-        <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
+        <img src = "https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/hacker.gif" width = 400px>
       </a>
       <br>
     </td>
 </table>
 </div>
-<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
+<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <details>
 <summary>
   More stuff about me
