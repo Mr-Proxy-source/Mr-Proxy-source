@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=10000&pause=20000&color=F7740E&width=600&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=435&lines=I+work+as+Discord+Developer+%26+Music+Producer;I+love+making+Youtube+Videos+%26+Designs)](https://git.io/typing-svg)
-<img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142834741377245214/ezgif.com-gif-maker.gif">
+<h2 align="center"> <img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142847087264927774/150995826-9d81e855-3ff6-4e8f-aa6b-86c8dd0fb5f4.jpg"> </h2>
 
-### :mailbox: Socials & Info
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=10000&pause=20000&color=5D3FD3&width=600&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=800&lines=I+work+as+Discord+Developer+%26+Music+Producer+,+i+love+making+Youtube+Videos+%26+Designs🟣)](https://git.io/typing-svg)
+<h2 align="center">:mailbox: Socials & Info :mailbox:</h2>
 
 [![Mail Badge](https://img.shields.io/badge/-MrProxy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@cysc.) 
 [![Mail Badge](https://img.shields.io/badge/-MrProxyy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noooreply.acount@gmail.com)
@@ -11,9 +11,19 @@
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
 - ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-bot.js) & [Design Discord Servers](https://discord.gg/mrtools)!
 
-<img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142834741377245214/ezgif.com-gif-maker.gif">
+<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<div width="100%" align="center">
+      
+  <a align="left" href="https://github.com/Mr-Proxy-source/Discord-Themes" title="Discord-Themes"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-Themes&theme=midnight-purple"></a>
 
+  <a align="right" href="https://github.com/Mr-Proxy-source/Discord-MultyTool" title="Discord-MultyTool"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-MultyTool&theme=midnight-purple"></a>
+
+  <a align="left" href="https://github.com/Mr-Proxy-source/Discord.js" title="Discord.js"><img align="Left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord.js&theme=midnight-purple"></a>
+
+  <a align="left" href="https://github.com/Mr-Proxy-source/Lyly-Pichu" title="Lyly-Pichu"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Lyly-Pichu&theme=midnight-purple"></a>
+
+</div>
 <br><br>
 <h4 align="center">
   <a href="https://github.com/Mr-Proxy-source?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
@@ -22,10 +32,29 @@
 <br><br><br>
 <!-- CONTACT --> 
 
-<img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142834741377245214/ezgif.com-gif-maker.gif">
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=Mr-Proxy-source&show_icons=true&theme=codeSTACKr" alt="ashok" /><img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Proxy-source&count_private=true&theme=codeSTACKr" alt="ashok" />
-<img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142834741377245214/ezgif.com-gif-maker.gif">
+<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
 
+<h2 align="center">🟣 My Stats 🟣</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mr-Proxy-Source&theme=midnight-purple" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Proxy-Source&theme=midnight-purple" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Proxy-Source&theme=midnight-purple" />
+    </a>
+  </div>
+  <br>
+</p>
+
+<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
 <h2 align="center">💻Tools, languages, and other things that I like to work with💻</h2>
 <div align=center>
 <table>
@@ -144,12 +173,24 @@
 </table>
 </div>
 
-<img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142834741377245214/ezgif.com-gif-maker.gif">
-
-
-
-![ezgif-2-6f696d554b](https://user-images.githubusercontent.com/80650301/150995826-9d81e855-3ff6-4e8f-aa6b-86c8dd0fb5f4.jpg)
-
+<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
+<div align=Center>
+<table>
+    <td align="Left" width="600">
+      <a href="https://linktr.ee/mrproxy.wav">
+        <img src="https://metrics.lecoq.io/Mr-Proxy-Source">
+      </a>
+      <br>
+    </td>
+    <td align="Center" width="600">
+      <a href="https://linktr.ee/mrproxy.wav">
+        <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
+      </a>
+      <br>
+    </td>
+</table>
+</div>
+<div align=center><img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142846226144968744/ezgif.com-gif-maker_1.gif"></div>
 <details>
 <summary>
   More stuff about me
