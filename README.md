@@ -15,13 +15,13 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <div width="100%" align="center">
       
-  <a align="left" href="https://github.com/Mr-Proxy-source/Discord-Themes" title="Discord-Themes"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-Themes&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/Mr-Proxy-source/Discord-Themes" title="Discord-Themes"><img align="left" height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-Themes&theme=midnight-purple"></a>
 
-  <a align="right" href="https://github.com/Mr-Proxy-source/Discord-MultyTool" title="Discord-MultyTool"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-MultyTool&theme=midnight-purple"></a>
+  <a align="right" href="https://github.com/Mr-Proxy-source/Discord-MultyTool" title="Discord-MultyTool"><img align="right" height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-MultyTool&theme=midnight-purple"></a>
 
-  <a align="left" href="https://github.com/Mr-Proxy-source/Discord.js" title="Discord.js"><img align="Left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord.js&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/Mr-Proxy-source/Discord.js" title="Discord.js"><img align="Left" height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord.js&theme=midnight-purple"></a>
 
-  <a align="left" href="https://github.com/Mr-Proxy-source/Lyly-Pichu" title="Lyly-Pichu"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Lyly-Pichu&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/Mr-Proxy-source/Lyly-Pichu" title="Lyly-Pichu"><img align="right" height="110" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Lyly-Pichu&theme=midnight-purple"></a>
 
 </div>
 <br><br>
