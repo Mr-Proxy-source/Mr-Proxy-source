@@ -26,7 +26,7 @@
 </div>
 <br><br>
 <h4 align="center">
-  <a href="https://github.com/Mr-Proxy-source?tab=repositories" title="Show Repositories">🔎Show More🔍</a>
+  <a href="https://github.com/Mr-Proxy-source?tab=repositories" title="Show Repositories">🔎Show More</a>
 </h4>
 
 <br><br><br>
