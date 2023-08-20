@@ -19,7 +19,7 @@
 
   <a align="right" href="https://github.com/Mr-Proxy-source/Discord-MultyTool" title="Discord-MultyTool"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-MultyTool&theme=midnight-purple"></a>
 
-  <a align="left" href="https://github.com/Mr-Proxy-source/Discord.js" title="Discord.js"><img align="Left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord.js&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/Mr-Proxy-source/UD-Fivem-Lua-Menus" title="UD-Fivem-Lua-Menus"><img align="Left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=UD-Fivem-Lua-Menus&theme=midnight-purple"></a>
 
   <a align="left" href="https://github.com/Mr-Proxy-source/Lyly-Pichu" title="Lyly-Pichu"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Lyly-Pichu&theme=midnight-purple"></a>
 
@@ -129,9 +129,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
+        <img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142865411587715133/Lua-Logo.svg" width="48" height="48" alt="Lua" />
       </a>
-      <br>Git
+      <br>Lua
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -141,9 +141,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/markdown.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>MarkDown
+      <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
