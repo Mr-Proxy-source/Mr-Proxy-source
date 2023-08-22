@@ -129,43 +129,43 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.discordapp.com/attachments/1020789559895789679/1142865411587715133/Lua-Logo.svg" width="48" height="48" alt="Lua" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/Lua-Logo.svg" width="48" height="48" alt="Lua" />
       </a>
       <br>Lua
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/github.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/github.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/photoshop.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/photoshop.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>PhotoShop
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/adobe-illustrator.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/adobe-illustrator.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Illustrator
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/premiere-pro.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/premiere-pro.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Premiere-pro
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/after-effects.svg" width="48" height="48" alt="Thanos" />
+        <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/after-effects.svg" width="48" height="48" alt="Thanos" />
       </a>
       <br>After-Effects
     </td>
