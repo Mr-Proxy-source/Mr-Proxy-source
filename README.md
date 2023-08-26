@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=5D3FD3&width=800&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=800&lines=I+work+as+Discord+Developer+%26+Music+Producer+,+i+love+making+Youtube+Videos+%26+Designs🟣)](https://git.io/typing-svg)
-<h2 align="center">:mailbox: Socials & Info :mailbox:</h2>
+<h2 align="center">:mailbox: Info & Contact :mailbox:</h2>
 
 [![Mail Badge](https://img.shields.io/badge/-MrProxy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@cysc.) 
 [![Mail Badge](https://img.shields.io/badge/-MrProxyy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noooreply.acount@gmail.com)
@@ -21,7 +21,7 @@
 
   <a align="left" href="https://github.com/Mr-Proxy-source/UD-Fivem-Lua-Menus" title="UD-Fivem-Lua-Menus"><img align="Left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=UD-Fivem-Lua-Menus&theme=midnight-purple"></a>
 
-  <a align="left" href="https://github.com/Mr-Proxy-source/Lyly-Pichu" title="Lyly-Pichu"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Lyly-Pichu&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/Mr-Proxy-source/Flipper-Zero-BadUSB" title="Flipper-Zero-BadUSB"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Flipper-Zero-BadUSB&theme=midnight-purple"></a>
 
 </div>
 <br><br>
@@ -173,6 +173,44 @@
 </table>
 </div>
 
+<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
+<h2 align="center">📱 My Socials 📱</h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://youtube.com/@cysc.?sub_confirmation=1">
+        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
+      </a>
+      <br>YouTube
+    </td>
+    <td align="center" width="96">
+      <a href="https://twitter.com/venomhvnc">
+        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/twitter.png width="48" height="48" alt="Python" />
+      </a>
+      <br>Twitter
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.instagram.com/mrproxy.wav/">
+        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/insta.png width="48" height="48" alt="Golang" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="96">
+      <a href="https://discord.gg/mrtools">
+        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/discord-v2-svgrepo-com.svg width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Discord
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tiktok.com/@mrproxyonyt">
+        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>TikTok
+    </td>    
+  </tr>
+</table>
+</div>
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <div align=Center>
 <table>
