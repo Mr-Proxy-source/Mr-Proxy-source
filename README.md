@@ -200,8 +200,8 @@
 
 ### My job is making designs and producing music and im making money of it !
 
-### Check out my websites! 
-### [Webite about my work](https://mrdesignbusiness1.wixsite.com/home)
-### [Website i made for fun](https://mr-proxy-source.github.io/website/)  
+### Check out my website! 
+### [MrSec](https://mrsec.bio)
+### All Credits To WillyJL & I am Jakoby 
 
 </details>
