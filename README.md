@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my [Discord Themes & Bots](linktr.ee/mrproxy.wav)
 - 📖 Check out my [Discord Bot !](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot)
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
-- ⚡ Fun fact: I love scripting in [Python](https://www.python.org/) creating [Discord Bots](https://github.com/Mr-Proxy-source/Discord-bot.js) & [Design Discord Servers](https://discord.gg/mrtools)!
+- ⚡ Fun fact: I love scripting in [Python](https://www.python.org/), creating [Discord Bots](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot) & [Design Discord Servers](https://discord.gg/mrtools)!
 
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
