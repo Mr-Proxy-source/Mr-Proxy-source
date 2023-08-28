@@ -240,6 +240,6 @@
 
 ### Check out my website! 
 ### [MrSec](https://mrsec.bio)
-### All Credits To WillyJL & I am Jakoby 
+### All Credits To Willy & I am Jakoby 
 
 </details>
