@@ -21,7 +21,7 @@
 
   <a align="left" href="https://github.com/Mr-Proxy-source/UD-Fivem-Lua-Menus" title="UD-Fivem-Lua-Menus"><img align="Left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=UD-Fivem-Lua-Menus&theme=midnight-purple"></a>
 
-  <a align="left" href="https://github.com/Mr-Proxy-source/Flipper-Zero-BadUSB" title="Flipper-Zero-BadUSB"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Flipper-Zero-BadUSB&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/Mr-Proxy-source/BadUSB-Payloads" title="BadUSB-Payloads"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=BadUSB-Payloads&theme=midnight-purple"></a>
 
 </div>
 <br><br>
