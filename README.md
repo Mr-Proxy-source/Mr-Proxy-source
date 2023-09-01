@@ -174,44 +174,6 @@
 </div>
 
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
-<h2 align="center">📱 My Socials 📱</h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://youtube.com/@cysc.?sub_confirmation=1">
-        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
-      </a>
-      <br>YouTube
-    </td>
-    <td align="center" width="96">
-      <a href="https://twitter.com/venomhvnc">
-        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/twitter.png width="48" height="48" alt="Python" />
-      </a>
-      <br>Twitter
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.instagram.com/mrproxy.wav/">
-        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/insta.png width="48" height="48" alt="Golang" />
-      </a>
-      <br>Instagram
-    </td>
-    <td align="center" width="96">
-      <a href="https://discord.gg/mrtools">
-        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/blob/main/img/discord-v2-svgrepo-com.svg width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tiktok.com/@mrproxyonyt">
-        <img src=https://github.com/Mr-Proxy-Source/Mr-Proxy-Source/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>TikTok
-    </td>    
-  </tr>
-</table>
-</div>
-<div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <div align=Center>
 <table>
     <td align="Left" width="600">
@@ -222,7 +184,7 @@
     </td>
     <td align="Center" width="600">
       <a href="https://linktr.ee/mrproxy.wav">
-        <img src = "https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/hacker.gif" width = 400px>
+        <img src = "https://giffiles.alphacoders.com/120/120320.gif" width = 400px>
       </a>
       <br>
     </td>
