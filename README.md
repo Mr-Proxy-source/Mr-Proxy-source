@@ -1,15 +1,14 @@
 <h2 align="center"> <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/main.jpg"> </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=5D3FD3&width=800&lines=Hi+I'm+Mr.+Proxy%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&weight=100&duration=3000&pause=7000&color=F7F7F7&width=800&lines=I+work+as+Discord+Developer+%26+Music+Producer+,+i+love+making+Youtube+Videos+%26+Designs🟣)](https://git.io/typing-svg)
 <h2 align="center">:mailbox: Info & Contact :mailbox:</h2>
 
 [![Mail Badge](https://img.shields.io/badge/-MrProxy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@cysc.) 
 [![Mail Badge](https://img.shields.io/badge/-MrProxyy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noooreply.acount@gmail.com)
-- 🔭 I’m currently working on my [Discord Themes & Bots](linktr.ee/mrproxy.wav)
+- 🔭 I’m currently working on my [Discord Themes](https://mrsec.bio)
 - 📖 Check out my [Discord Bot !](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot)
-- 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools) - Mail: [noooreply.acount@gmail.com](mailto:noooreply.acount@gmail.com)
-- ⚡ Fun fact: I love scripting in [Python](https://www.python.org/), creating [Discord Bots](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot) & [Design Discord Servers](https://discord.gg/mrtools)!
+- 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools)
+- ⚡ Fun fact: You are just wasting your time reading this.
 
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
