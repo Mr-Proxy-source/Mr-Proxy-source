@@ -11,7 +11,7 @@
       
   <a align="left" href="https://github.com/Mr-Proxy-source/Discord-Themes" title="Discord-Themes"><img align="left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-Themes&theme=midnight-purple"></a>
 
-  <a align="right" href="https://github.com/Mr-Proxy-source/Cysc-Boosts" title="Cysc-Boosts"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Cysc-Boosts&theme=midnight-purple"></a>
+  <a align="right" href="https://github.com/Mr-Proxy-source/Discord-MultyTool" title="Discord-MultyTool"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-MultyTool&theme=midnight-purple"></a>
 
   <a align="left" href="https://github.com/Mr-Proxy-source/UD-Fivem-Lua-Menus" title="UD-Fivem-Lua-Menus"><img align="Left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=UD-Fivem-Lua-Menus&theme=midnight-purple"></a>
 
