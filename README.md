@@ -192,8 +192,6 @@
 
 <br >
 
-### My job is making designs and producing music and im making money of it !
-
 ### Check out my website! 
 ### [MrSec](https://mrsec.bio)
 ### All Credits To Willy & I am Jakoby 
