@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/main.jpg"> </h2>
 
-- 🔭 I’m currently not doing anything
+- 🔭 I’m currently working on BluetoothDB
 - 📖 Check out my [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot)
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools)
 - ⚡ Fun fact: You are just wasting your time reading this.
@@ -171,13 +171,13 @@
 <div align=Center>
 <table>
     <td align="Left" width="600">
-      <a href="https://linktr.ee/mrproxy.wav">
+      <a href="https://mrsec.bio/cysc">
         <img src="https://metrics.lecoq.io/Mr-Proxy-Source">
       </a>
       <br>
     </td>
     <td align="Center" width="600">
-      <a href="https://linktr.ee/mrproxy.wav">
+      <a href="https://mrsec.bio/cysc">
         <img src = "https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/h1tl4.gif" width = 400px>
       </a>
       <br>
