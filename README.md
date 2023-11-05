@@ -178,7 +178,7 @@
     </td>
     <td align="Center" width="600">
       <a href="https://linktr.ee/mrproxy.wav">
-        <img src = "https://i.redd.it/z8nh06j3us4a1.png" width = 400px>
+        <img src = "https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/h1tl4.gif" width = 400px>
       </a>
       <br>
     </td>
