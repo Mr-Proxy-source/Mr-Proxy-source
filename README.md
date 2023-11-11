@@ -178,7 +178,7 @@
     </td>
     <td align="Center" width="600">
       <a href="https://mrsec.bio/cysc">
-        <img src = "https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/h1tl4.gif" width = 400px>
+        <img src = "https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/h1tl4.gif" width = 350px>
       </a>
       <br>
     </td>
