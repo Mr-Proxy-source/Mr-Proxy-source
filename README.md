@@ -54,6 +54,7 @@
 <p align="center">
   <a href="https://mrsec.bio">
     <img src="https://skillicons.dev/icons?i=powershell,bash,linux,visualstudio,py,lua,cs,cpp,html,css,js,discord,ps,ae,pr" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/mrproxy.png" alt="TryHackMe">
   </a>
 </p>
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
