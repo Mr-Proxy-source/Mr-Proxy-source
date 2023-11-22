@@ -11,7 +11,7 @@
       
   <a align="left" href="https://github.com/Mr-Proxy-source/Discord-Themes" title="Discord-Themes"><img align="left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=Discord-Themes&theme=midnight-purple"></a>
 
-  <a align="right" href="https://github.com/Mr-Proxy-source/BLE-DB" title="BLE-DB"><img align="right" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=BLE-DB&theme=midnight-purple"></a>
+  <a align="right" href="https://github.com/Mr-Proxy-source/BLE-DB" title="BLE-DB"><img align="right" height="105" src="https://camo.githubusercontent.com/334e0f34cfa7a53c171bd92939b0130d8c531c3e6ea1bbcb765a0ad041e2276e/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4d722d50726f78792d536f75726365267265706f3d424c452d4442267468656d653d6d69646e696768742d707572706c65?"></a>
 
   <a align="left" href="https://github.com/Mr-Proxy-source/UD-Fivem-Lua-Menus" title="UD-Fivem-Lua-Menus"><img align="Left" height="105" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Proxy-Source&repo=UD-Fivem-Lua-Menus&theme=midnight-purple"></a>
 
