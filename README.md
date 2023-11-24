@@ -42,7 +42,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Proxy-Source&theme=midnight-purple&hide=lua,css" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Proxy-Source&theme=midnight-purple&size_weight=0.2&count_weight=0.5" />
     </a>
   </div>
   <br>
