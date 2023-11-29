@@ -1,7 +1,7 @@
 <h2 align="center"> <img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/main.jpg"> </h2>
 
 - 🔭 I’m currently working on BluetoothDB
-- 📖 Check out my [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1105845652128280587&permissions=8&scope=bot)
+- 📖 Check out my [Bad USB Scripts!](https://github.com/Mr-Proxy-source/BadUSB-Payloads)
 - 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools)
 - ⚡ Fun fact: You are just wasting your time reading this.
 
