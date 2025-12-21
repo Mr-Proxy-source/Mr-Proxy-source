@@ -53,7 +53,7 @@
     <img src="https://skillicons.dev/icons?i=powershell,bash,linux,visualstudio,py,lua,cs,cpp,html,css,js,discord,ps,ae,pr" />
   </a>
       <img src="https://tryhackme-badges.s3.amazonaws.com/mrproxy.png" alt="THM Badge" />
-      <img src="https://discord.c99.nl/widget/theme-4/859735535916417024.png" width = 300px>
+      <img src="https://discord.c99.nl/widget/theme-4/1111785199882219630.png" width = 300px>
 </p>
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
 <div align=Center>
