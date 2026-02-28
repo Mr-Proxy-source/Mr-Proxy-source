@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on BluetoothDB
 - 📖 Check out my [Bad USB Scripts!](https://github.com/Mr-Proxy-source/BadUSB-Payloads)
-- 📫 How to contact me - Discord: [Cysc#0](https://discord.gg/mrtools)
+- 📫 How to contact me - Discord: [mrproxyy#0](https://discord.gg/mrtools)
 - ⚡ Fun fact: You are just wasting your time reading this.
 
 <div align=center><img src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/purple_line.gif"></div>
